@@ -1,0 +1,15 @@
+body {
+	 background-color: #C6EFF5;
+ }
+ 
+ h1 {
+ 	color: #F98D05;
+ }
+ 
+ a:link {
+ 	color: #055DF9;
+ }
+ 
+ a:visited {
+ 	color: red;
+ }
